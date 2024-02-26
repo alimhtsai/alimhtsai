@@ -3,7 +3,7 @@
 - 🎓 Master of Software Engineering from UCI
 - 🎓 Master of Science in GIS/ Urban Planning from NCKU
 - 💻 ex-SDE intern at AWS ECS team
-- 👩‍💻 3-year work experience in the Smart Cities/ Civil Engineering industry
+- 👩‍💻 3-year work experience in the smart cities/ civil engineering industry
 - 🌍 I'm based in California, US
 - 🌱 I'm open to software engineer opportunities!
 
