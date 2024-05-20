@@ -1,11 +1,8 @@
 ## Hi visitors 👋 I'm Ming-Hua
-### ex-SDE intern at AWS with 1 YoE software engineer/ dual Master degrees
-- 🎓 Master of Software Engineering from UCI
-- 🎓 Master of Science in GIS/ Urban Planning from NCKU
-- 💻 ex-SDE intern at AWS ECS team
-- 👩‍💻 3-year work experience in the smart cities/ civil engineering industry
-- 🌍 I'm based in California, US
-- 🌱 I'm open to software engineer opportunities!
+- 🔌 I'm currently learning by implementing a distributed event-driven microservices! -> [repo link](https://github.com/alimhtsai/Event_driven_microservices)
+- 💻 ex-SDE intern at AWS ECS team, where I improved an internal feature's observability
+- 🎓 Master of Software Engineering from UC Irvine (Zot! Zot! Zot!)
+- 🌎 I'm open to software engineer opportunities in the US!
 
 <!---
 ### My GitHub Stats
