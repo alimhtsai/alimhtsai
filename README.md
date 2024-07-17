@@ -1,4 +1,5 @@
 ## Hi visitors 👋 I'm Ming-Hua
+#### I'm a generalist engineer who loves to try new tech stacks by doing various projects!
 - 🔌 I'm currently learning by implementing distributed event-driven microservices! -> [repo link](https://github.com/alimhtsai/Event_driven_microservices)
 - 💻 ex-SDE intern at AWS ECS team, where I improved an internal feature's observability
 - 🎓 Master of Software Engineering from UC Irvine (Zot! Zot! Zot!)
