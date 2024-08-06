@@ -1,8 +1,8 @@
 ## Hi visitors 👋 I'm Ming-Hua
 ### I'm a generalist engineer who loves to try new tech stacks by doing various projects!
-- 💻 ex-SDE intern at AWS ECS team, where I improved an internal feature's observability
+- 💻 Backend software engineer in Fintech 💵
+- 🌎 Based in California, US
 - 🎓 Master of Software Engineering from UC Irvine (Zot! Zot! Zot!)
-- 🌎 I'm open to software engineer opportunities in the US!
 
 <p align="center">
   <img width="1000" height="200" src="https://streak-stats.demolab.com?user=alimhtsai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
