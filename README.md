@@ -1,8 +1,6 @@
 ## Hi visitors 👋 I'm Ming-Hua
-### I'm a generalist engineer who loves to try new tech stacks by doing various projects!
-- 💻 Backend software engineer in Fintech 💵
+- 💻 Backend software engineer in Fintech
 - 🌎 Based in California, US
-- 🎓 Master of Software Engineering from UC Irvine (Zot! Zot! Zot!)
 
 <p align="center">
   <img width="1000" height="200" src="https://streak-stats.demolab.com?user=alimhtsai&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
