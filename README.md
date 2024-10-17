@@ -1,5 +1,5 @@
 ## Hi visitors 👋 I'm Ming-Hua
-- 💻 Backend software engineer in Fintech
+- 💻 Backend Software Engineer in Fintech
 - 🌎 Based in California, US
 
 <p align="center">
